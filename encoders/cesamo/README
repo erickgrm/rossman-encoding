@@ -1,0 +1,8 @@
+# cesamo encoder
+Implementation of the CESAMO Encoder
+
+A tool to encode categorical variables in datasets. For the theoretical basis of this encoder
+see "On the encoding of categorical variables for machine learning applications", Chapter 3. 
+
+This package was developed under Python 3.7 and requires the common Scipy.stats and Numpy 
+packages, alongside Scikit-Learn 0.22.2+

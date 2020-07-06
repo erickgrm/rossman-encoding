@@ -1,0 +1,8 @@
+A tool to numerically encode  categorical variables in datasets, based on the work 
+'Entity Embeddings of Categorical Variables' by C. Guo and F. Berkhahr, 2016.
+
+It requires Tensorflow 2.x and it is design to work with pandas dataframes.
+
+
+
+

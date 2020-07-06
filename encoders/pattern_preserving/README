@@ -1,0 +1,5 @@
+# pattern-preserving-encoders
+Implementation of several Pattern Preserving Encoders. 
+
+A tool to encode categorical variables in datasets. For the theoretical basis of these encoders 
+see "On the encoding of categorical variables for machine learning applications", Chapter 3. 
